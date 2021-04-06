@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.exe
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.deps.json
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.runtimeconfig.json
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.runtimeconfig.dev.json
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.dll
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.pdb
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.AssemblyInfo.cs
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.dll
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.pdb
+C:\Users\12482\source\repos\Lab2NumberAnalyzer Decision Maker\Lab2NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer Decision Maker.genruntimeconfig.cache
